@@ -10,5 +10,7 @@
 * Use the command -- python sequence.py -- to run the program.
 * Input the pattern without any commas (like -LBDGHSJ) then press enter.
 * Input the required set of inputs alike the pattern, then press enter.
+* For GUI use the command -- python GUI.py -- to run the GUI program.
+
 #### You will get the list of all the patterns with the number of outputs in the terminal.
-#### The GUI version is not complete yet.
+
